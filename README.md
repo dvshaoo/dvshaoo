@@ -32,12 +32,12 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 
 |  |  |
 |---|---|
-| <img src="https://streak-stats.demolab.com?user=dvshaoo&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" /> | <img src="https://komarev.com/ghpvc/?username=dvshaoo&color=brightgreen&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views" /> |
+| <img src="https://streak-stats.demolab.com?user=dvshaoo&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=58A6FF&ring=79C0FF" height="150" /> | <img src="https://komarev.com/ghpvc/?username=dvshaoo&color=79C0FF&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views" /> |
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvshaoo&theme=chartreuse-dark" style="width: 100%; max-width: 900px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvshaoo&theme=github-dark-dimmed&bg_color=0d1117&color=8b949e&line=58a6ff&point=79c0ff&area=true" style="width: 100%; max-width: 900px;" />
 </div>
 
 ---
@@ -48,13 +48,13 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <div align="center">
   <table>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.svg" alt="React" title="React"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nextjs.svg" alt="Next.js" title="Next.js"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.svg" alt="TypeScript" title="TypeScript"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.svg" alt="JavaScript" title="JavaScript"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.svg" alt="ShadCn UI" title="ShadCn UI"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vitejs.svg" alt="Vite" title="Vite"/></code></td>
     </tr>
   </table>
 </div>
@@ -63,11 +63,11 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <div align="center">
   <table>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" title="PHP"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="Laravel" title="Laravel"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nodejs.svg" alt="Node.js" title="Node.js"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.svg" alt="PHP" title="PHP"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.svg" alt="Laravel" title="Laravel"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.svg" alt="Python" title="Python"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.svg" alt="npm" title="npm"/></code></td>
     </tr>
   </table>
 </div>
@@ -76,9 +76,9 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <div align="center">
   <table>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cplusplus.svg" alt="C++" title="C++"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.svg" alt="Java" title="Java"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.svg" alt="C" title="C"/></code></td>
     </tr>
   </table>
 </div>
@@ -87,11 +87,11 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <div align="center">
   <table>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" alt="MariaDB" title="MariaDB"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.svg" alt="MySQL" title="MySQL"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.svg" alt="MongoDB" title="MongoDB"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.svg" alt="SQLite" title="SQLite"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.svg" alt="MariaDB" title="MariaDB"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.svg" alt="Firebase" title="Firebase"/></code></td>
     </tr>
   </table>
 </div>
@@ -100,11 +100,11 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <div align="center">
   <table>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Linux" title="Kali Linux"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="WebSocket" title="WebSocket"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.svg" alt="Docker" title="Docker"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.svg" alt="Linux" title="Linux"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kalilinux.svg" alt="Kali Linux" title="Kali Linux"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.svg" alt="GitHub" title="GitHub"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.svg" alt="Nginx" title="Nginx"/></code></td>
     </tr>
   </table>
 </div>
@@ -113,8 +113,8 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <div align="center">
   <table>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="Godot" title="Godot"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.svg" alt="Figma" title="Figma"/></code></td>
+      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godotengine.svg" alt="Godot" title="Godot"/></code></td>
     </tr>
   </table>
 </div>
