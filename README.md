@@ -48,13 +48,12 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <div align="center">
   <table>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.svg" alt="React" title="React"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nextjs.svg" alt="Next.js" title="Next.js"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.svg" alt="TypeScript" title="TypeScript"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.svg" alt="JavaScript" title="JavaScript"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.svg" alt="ShadCn UI" title="ShadCn UI"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vitejs.svg" alt="Vite" title="Vite"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" title="Vite"/></code></td>
     </tr>
   </table>
 </div>
@@ -63,11 +62,11 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <div align="center">
   <table>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nodejs.svg" alt="Node.js" title="Node.js"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.svg" alt="PHP" title="PHP"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.svg" alt="Laravel" title="Laravel"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.svg" alt="Python" title="Python"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.svg" alt="npm" title="npm"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" title="Laravel"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm"/></code></td>
     </tr>
   </table>
 </div>
@@ -76,9 +75,9 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <div align="center">
   <table>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cplusplus.svg" alt="C++" title="C++"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.svg" alt="Java" title="Java"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.svg" alt="C" title="C"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C"/></code></td>
     </tr>
   </table>
 </div>
@@ -87,11 +86,11 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <div align="center">
   <table>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.svg" alt="MySQL" title="MySQL"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.svg" alt="MongoDB" title="MongoDB"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.svg" alt="SQLite" title="SQLite"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.svg" alt="MariaDB" title="MariaDB"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.svg" alt="Firebase" title="Firebase"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase"/></code></td>
     </tr>
   </table>
 </div>
@@ -100,11 +99,11 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <div align="center">
   <table>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.svg" alt="Docker" title="Docker"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.svg" alt="Linux" title="Linux"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kalilinux.svg" alt="Kali Linux" title="Kali Linux"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.svg" alt="GitHub" title="GitHub"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.svg" alt="Nginx" title="Nginx"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/></code></td>
     </tr>
   </table>
 </div>
@@ -113,8 +112,8 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <div align="center">
   <table>
     <tr>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.svg" alt="Figma" title="Figma"/></code></td>
-      <td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godotengine.svg" alt="Godot" title="Godot"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma"/></code></td>
+      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mdx/mdx-original.svg" alt="MDX" title="MDX"/></code></td>
     </tr>
   </table>
 </div>
