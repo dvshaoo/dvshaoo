@@ -3,7 +3,7 @@
     <strong>Joey Lorenz Corpuz</strong>
   </h1>
   <p style="font-family: 'Geist', sans-serif; font-size: 16px; color: #808080; margin: 8px 0 32px 0;">
-    Full Stack Developer • QA Analyst • Network Administrator
+    Front end Developer • QA Analyst • Network Administrator
   </p>
 
   <picture>
