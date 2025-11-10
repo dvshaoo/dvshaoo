@@ -3,7 +3,7 @@
     <strong>Joey Lorenz Corpuz</strong>
   </h1>
   <p style="font-family: 'Geist', sans-serif; font-size: 16px; color: #808080; margin: 8px 0 32px 0;">
-    Front end Developer • QA Analyst • Network Administrator
+    Frontend Developer • Full-Stack Enthusiast • 4th Year DCCP Student
   </p>
 
   <picture>
@@ -18,9 +18,11 @@
 
 ## 👋 About Me
 
-I'm Joey Lorenz Corpuz, a 4th-year student at DCCP, passionate about web development and technology. I specialize in frontend development with React and Next.js, but I'm equally eager to expand my skills in backend development, aiming to become a versatile full-stack developer. Currently, I'm exploring Next.js App Router and Tailwind CSS for productive development workflows.
+I'm Joey Lorenz Corpuz, a 4th-year student at DCCP, passionate about web development. I'm particularly interested in frontend development, but I'm also eager to expand my skills to include backend development, aiming to become a versatile and collaborative team player.
 
-Beyond coding, I'm interested in network administration, QA testing, and system optimization. I'm excited to collaborate with teams, learn from experienced developers, and contribute meaningful solutions to real-world problems.
+I'm currently exploring various tools and technologies, including **Next.js App Router** and **Tailwind CSS**, which I find super productive. To expand my skills, I plan to learn **Laravel** to build full-stack applications and stay adaptable in my career. I'm looking forward to collaborating with a team in the future, where I can contribute my skills, learn from others, and grow as a developer.
+
+**Institution:** [DCCP Laoag](https://www.dccplaoag.com/)
 
 ---
 
