@@ -3,7 +3,7 @@
     <strong>Joey Lorenz Corpuz</strong>
   </h1>
   <p style="font-family: 'Geist', sans-serif; font-size: 16px; color: #808080; margin: 8px 0 32px 0;">
-    Frontend Developer • Full-Stack Enthusiast • 4th Year DCCP Student
+    Frontend Developer •  4th Year DCCP Student
   </p>
 
   <picture>
