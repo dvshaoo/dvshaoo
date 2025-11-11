@@ -143,11 +143,3 @@ I'm always open to interesting conversations, collaboration opportunities, and l
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shaoyoooo)
 
 </div>
-
----
-
-<div align="center">
-  <p style="font-family: 'Geist', sans-serif; color: #808080; font-size: 12px; margin-top: 40px;">
-    Building the future, one line of code at a time
-  </p>
-</div>
