@@ -46,7 +46,7 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 
 ## 🛠️ Tech Stack
 
-<div align="left" style="display:flex; flex-direction:column; gap:24px;">
+<div align="left" style="display:flex; flex-direction:column; gap:50px;">
 
   <!-- 🎨 Frontend Development -->
   <h3>🎨 Frontend Development</h3>
