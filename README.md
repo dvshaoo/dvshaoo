@@ -47,63 +47,60 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <!-- 🎨 Frontend Development -->
 <h3>🎨 Frontend Development</h3>
 <p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/react.svg" title="React" alt="React"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/nextjs.svg" title="Next.js" alt="Next.js"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/typescript.svg" title="TypeScript" alt="TypeScript"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/javascript.svg" title="JavaScript" alt="JavaScript"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/vitejs.svg" title="Vite" alt="Vite"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=react&theme=light" title="React" alt="React"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=nextjs&theme=light" title="Next.js" alt="Next.js"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=typescript&theme=light" title="TypeScript" alt="TypeScript"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=javascript&theme=light" title="JavaScript" alt="JavaScript"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=tailwindcss&theme=light" title="Tailwind CSS" alt="Tailwind CSS"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=vite&theme=light" title="Vite" alt="Vite"/>
 </p>
 
 <!-- ⚙️ Backend & Runtime -->
 <h3>⚙️ Backend & Runtime</h3>
 <p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/nodejs.svg" title="Node.js" alt="Node.js"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/php.svg" title="PHP" alt="PHP"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/laravel.svg" title="Laravel" alt="Laravel"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/python.svg" title="Python" alt="Python"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/npm.svg" title="npm" alt="npm"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=nodejs&theme=light" title="Node.js" alt="Node.js"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=php&theme=light" title="PHP" alt="PHP"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=laravel&theme=light" title="Laravel" alt="Laravel"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=python&theme=light" title="Python" alt="Python"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=npm&theme=light" title="npm" alt="npm"/>
 </p>
 
 <!-- 📝 Programming Languages -->
 <h3>📝 Programming Languages</h3>
 <p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/cplusplus.svg" title="C++" alt="C++"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/java.svg" title="Java" alt="Java"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/c.svg" title="C" alt="C"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=cpp&theme=light" title="C++" alt="C++"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=java&theme=light" title="Java" alt="Java"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=c&theme=light" title="C" alt="C"/>
 </p>
 
 <!-- 💾 Databases -->
 <h3>💾 Databases</h3>
 <p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/mysql.svg" title="MySQL" alt="MySQL"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/mongodb.svg" title="MongoDB" alt="MongoDB"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/sqlite.svg" title="SQLite" alt="SQLite"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/mariadb.svg" title="MariaDB" alt="MariaDB"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/firebase.svg" title="Firebase" alt="Firebase"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=mysql&theme=light" title="MySQL" alt="MySQL"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=mongodb&theme=light" title="MongoDB" alt="MongoDB"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=sqlite&theme=light" title="SQLite" alt="SQLite"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=mariadb&theme=light" title="MariaDB" alt="MariaDB"/>
+  <img width="50} style="border-radius:12px;" src="https://skillicons.dev/icons?i=firebase&theme=light" title="Firebase" alt="Firebase"/>
 </p>
 
 <!-- 🔧 DevOps & Infrastructure -->
 <h3>🔧 DevOps & Infrastructure</h3>
 <p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/docker.svg" title="Docker" alt="Docker"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/linux.svg" title="Linux" alt="Linux"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/github.svg" title="GitHub" alt="GitHub"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/nginx.svg" title="Nginx" alt="Nginx"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/git.svg" title="Git" alt="Git"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=docker&theme=light" title="Docker" alt="Docker"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=linux&theme=light" title="Linux" alt="Linux"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=github&theme=light" title="GitHub" alt="GitHub"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=nginx&theme=light" title="Nginx" alt="Nginx"/>
+  <img width="50} style="border-radius:12px;" src="https://skillicons.dev/icons?i=git&theme=light" title="Git" alt="Git"/>
 </p>
 
 <!-- 🎯 Design & Tools -->
 <h3>🎯 Design & Tools</h3>
 <p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/figma.svg" title="Figma" alt="Figma"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/mdx.svg" title="MDX" alt="MDX"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=figma&theme=light" title="Figma" alt="Figma"/>
+  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=mdx&theme=light" title="MDX" alt="MDX"/>
 </p>
 
 </div>
-
-
-
 
 ---
 
