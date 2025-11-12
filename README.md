@@ -40,69 +40,68 @@ I'm currently exploring various tools and technologies, including **Next.js App 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvshaoo&theme=github-dark-dimmed&bg_color=0d1117&color=8b949e&line=58a6ff&point=79c0ff&area=true" style="width: 100%; max-width: 900px;" />
 </div>
 
----
-
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
-<!-- 🎨 FRONTEND -->
+<!-- 🎨 Frontend Development -->
 <h3>🎨 Frontend Development</h3>
-<p>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" title="Vite"/>
+<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" title="Vite"/>
 </p>
 
-<!-- ⚙️ BACKEND -->
+<!-- ⚙️ Backend & Runtime -->
 <h3>⚙️ Backend & Runtime</h3>
-<p>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm"/>
+<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm"/>
 </p>
 
-<!-- 📝 LANGUAGES -->
+<!-- 📝 Programming Languages -->
 <h3>📝 Programming Languages</h3>
-<p>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
 </p>
 
-<!-- 💾 DATABASES -->
+<!-- 💾 Databases -->
 <h3>💾 Databases</h3>
-<p>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" title="MariaDB"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase"/>
+<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" title="MariaDB"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase"/>
 </p>
 
-<!-- 🔧 DEVOPS -->
+<!-- 🔧 DevOps & Infrastructure -->
 <h3>🔧 DevOps & Infrastructure</h3>
-<p>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
 </p>
 
-<!-- 🎯 DESIGN -->
+<!-- 🎯 Design & Tools -->
 <h3>🎯 Design & Tools</h3>
-<p>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/>
-  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mdx/mdx-original.svg" title="MDX"/>
+<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mdx/mdx-original.svg" title="MDX"/>
 </p>
 
 </div>
+
 
 
 ---
