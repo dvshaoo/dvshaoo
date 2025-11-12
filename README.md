@@ -40,9 +40,6 @@ I'm currently exploring various tools and technologies, including **Next.js App 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvshaoo&theme=github-dark-dimmed&bg_color=0d1117&color=8b949e&line=58a6ff&point=79c0ff&area=true" style="width: 100%; max-width: 900px;" />
 </div>
 
-## 🛠️ Tech Stack
-
-<div align="left">
 
 ## 🛠️ Tech Stack
 
