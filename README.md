@@ -44,79 +44,66 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Development
 <div align="center">
-  <table>
-    <tr>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" title="Vite"/></code></td>
-    </tr>
-  </table>
+
+<!-- 🎨 FRONTEND -->
+<h3>🎨 Frontend Development</h3>
+<p>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" title="Vite"/>
+</p>
+
+<!-- ⚙️ BACKEND -->
+<h3>⚙️ Backend & Runtime</h3>
+<p>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm"/>
+</p>
+
+<!-- 📝 LANGUAGES -->
+<h3>📝 Programming Languages</h3>
+<p>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+</p>
+
+<!-- 💾 DATABASES -->
+<h3>💾 Databases</h3>
+<p>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" title="MariaDB"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase"/>
+</p>
+
+<!-- 🔧 DEVOPS -->
+<h3>🔧 DevOps & Infrastructure</h3>
+<p>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+</p>
+
+<!-- 🎯 DESIGN -->
+<h3>🎯 Design & Tools</h3>
+<p>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/>
+  <img width="55" style="border-radius:12px; margin:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mdx/mdx-original.svg" title="MDX"/>
+</p>
+
 </div>
 
-### ⚙️ Backend & Runtime
-<div align="center">
-  <table>
-    <tr>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" title="Laravel"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm"/></code></td>
-    </tr>
-  </table>
-</div>
-
-### 📝 Programming Languages
-<div align="center">
-  <table>
-    <tr>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C"/></code></td>
-    </tr>
-  </table>
-</div>
-
-### 💾 Databases
-<div align="center">
-  <table>
-    <tr>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase"/></code></td>
-    </tr>
-  </table>
-</div>
-
-### 🔧 DevOps & Infrastructure
-<div align="center">
-  <table>
-    <tr>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/></code></td>
-    </tr>
-  </table>
-</div>
-
-### 🎯 Design & Tools
-<div align="center">
-  <table>
-    <tr>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma"/></code></td>
-      <td><code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mdx/mdx-original.svg" alt="MDX" title="MDX"/></code></td>
-    </tr>
-  </table>
-</div>
 
 ---
 
