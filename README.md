@@ -44,63 +44,68 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 
 <div align="left">
 
-<!-- 🎨 Frontend Development -->
-<h3>🎨 Frontend Development</h3>
-<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=react&theme=light" title="React" alt="React"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=nextjs&theme=light" title="Next.js" alt="Next.js"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=typescript&theme=light" title="TypeScript" alt="TypeScript"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=javascript&theme=light" title="JavaScript" alt="JavaScript"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=tailwindcss&theme=light" title="Tailwind CSS" alt="Tailwind CSS"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=vite&theme=light" title="Vite" alt="Vite"/>
-</p>
+## 🛠️ Tech Stack
 
-<!-- ⚙️ Backend & Runtime -->
-<h3>⚙️ Backend & Runtime</h3>
-<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=nodejs&theme=light" title="Node.js" alt="Node.js"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=php&theme=light" title="PHP" alt="PHP"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=laravel&theme=light" title="Laravel" alt="Laravel"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=python&theme=light" title="Python" alt="Python"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=npm&theme=light" title="npm" alt="npm"/>
-</p>
+<div align="left" style="display:flex; flex-direction:column; gap:24px;">
 
-<!-- 📝 Programming Languages -->
-<h3>📝 Programming Languages</h3>
-<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=cpp&theme=light" title="C++" alt="C++"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=java&theme=light" title="Java" alt="Java"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=c&theme=light" title="C" alt="C"/>
-</p>
+  <!-- 🎨 Frontend Development -->
+  <h3>🎨 Frontend Development</h3>
+  <p style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=react&theme=light" width="50" style="border-radius:12px;" title="React" alt="React"/>
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="50" style="border-radius:12px;" title="Next.js" alt="Next.js"/>
+    <img src="https://skillicons.dev/icons?i=typescript&theme=light" width="50" style="border-radius:12px;" title="TypeScript" alt="TypeScript"/>
+    <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="50" style="border-radius:12px;" title="JavaScript" alt="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=tailwindcss&theme=light" width="50" style="border-radius:12px;" title="Tailwind CSS" alt="Tailwind CSS"/>
+    <img src="https://skillicons.dev/icons?i=vite&theme=light" width="50" style="border-radius:12px;" title="Vite" alt="Vite"/>
+  </p>
 
-<!-- 💾 Databases -->
-<h3>💾 Databases</h3>
-<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=mysql&theme=light" title="MySQL" alt="MySQL"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=mongodb&theme=light" title="MongoDB" alt="MongoDB"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=sqlite&theme=light" title="SQLite" alt="SQLite"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=mariadb&theme=light" title="MariaDB" alt="MariaDB"/>
-  <img width="50} style="border-radius:12px;" src="https://skillicons.dev/icons?i=firebase&theme=light" title="Firebase" alt="Firebase"/>
-</p>
+  <!-- ⚙️ Backend & Runtime -->
+  <h3>⚙️ Backend & Runtime</h3>
+  <p style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="50" style="border-radius:12px;" title="Node.js" alt="Node.js"/>
+    <img src="https://skillicons.dev/icons?i=php&theme=light" width="50" style="border-radius:12px;" title="PHP" alt="PHP"/>
+    <img src="https://skillicons.dev/icons?i=laravel&theme=light" width="50" style="border-radius:12px;" title="Laravel" alt="Laravel"/>
+    <img src="https://skillicons.dev/icons?i=python&theme=light" width="50" style="border-radius:12px;" title="Python" alt="Python"/>
+    <img src="https://skillicons.dev/icons?i=npm&theme=light" width="50" style="border-radius:12px;" title="npm" alt="npm"/>
+  </p>
 
-<!-- 🔧 DevOps & Infrastructure -->
-<h3>🔧 DevOps & Infrastructure</h3>
-<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=docker&theme=light" title="Docker" alt="Docker"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=linux&theme=light" title="Linux" alt="Linux"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=github&theme=light" title="GitHub" alt="GitHub"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=nginx&theme=light" title="Nginx" alt="Nginx"/>
-  <img width="50} style="border-radius:12px;" src="https://skillicons.dev/icons?i=git&theme=light" title="Git" alt="Git"/>
-</p>
+  <!-- 📝 Programming Languages -->
+  <h3>📝 Programming Languages</h3>
+  <p style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="50" style="border-radius:12px;" title="C++" alt="C++"/>
+    <img src="https://skillicons.dev/icons?i=java&theme=light" width="50" style="border-radius:12px;" title="Java" alt="Java"/>
+    <img src="https://skillicons.dev/icons?i=c&theme=light" width="50" style="border-radius:12px;" title="C" alt="C"/>
+  </p>
 
-<!-- 🎯 Design & Tools -->
-<h3>🎯 Design & Tools</h3>
-<p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=figma&theme=light" title="Figma" alt="Figma"/>
-  <img width="50" style="border-radius:12px;" src="https://skillicons.dev/icons?i=mdx&theme=light" title="MDX" alt="MDX"/>
-</p>
+  <!-- 💾 Databases -->
+  <h3>💾 Databases</h3>
+  <p style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="50" style="border-radius:12px;" title="MySQL" alt="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="50" style="border-radius:12px;" title="MongoDB" alt="MongoDB"/>
+    <img src="https://skillicons.dev/icons?i=sqlite&theme=light" width="50" style="border-radius:12px;" title="SQLite" alt="SQLite"/>
+    <img src="https://skillicons.dev/icons?i=mariadb&theme=light" width="50" style="border-radius:12px;" title="MariaDB" alt="MariaDB"/>
+    <img src="https://skillicons.dev/icons?i=firebase&theme=light" width="50" style="border-radius:12px;" title="Firebase" alt="Firebase"/>
+  </p>
+
+  <!-- 🔧 DevOps & Infrastructure -->
+  <h3>🔧 DevOps & Infrastructure</h3>
+  <p style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=docker&theme=light" width="50" style="border-radius:12px;" title="Docker" alt="Docker"/>
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" width="50" style="border-radius:12px;" title="Linux" alt="Linux"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=light" width="50" style="border-radius:12px;" title="GitHub" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=nginx&theme=light" width="50" style="border-radius:12px;" title="Nginx" alt="Nginx"/>
+    <img src="https://skillicons.dev/icons?i=git&theme=light" width="50" style="border-radius:12px;" title="Git" alt="Git"/>
+  </p>
+
+  <!-- 🎯 Design & Tools -->
+  <h3>🎯 Design & Tools</h3>
+  <p style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=figma&theme=light" width="50" style="border-radius:12px;" title="Figma" alt="Figma"/>
+    <img src="https://skillicons.dev/icons?i=mdx&theme=light" width="50" style="border-radius:12px;" title="MDX" alt="MDX"/>
+  </p>
 
 </div>
+
 
 ---
 
