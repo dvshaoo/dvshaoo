@@ -47,60 +47,61 @@ I'm currently exploring various tools and technologies, including **Next.js App 
 <!-- 🎨 Frontend Development -->
 <h3>🎨 Frontend Development</h3>
 <p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" title="Vite"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/react.svg" title="React" alt="React"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/nextjs.svg" title="Next.js" alt="Next.js"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/typescript.svg" title="TypeScript" alt="TypeScript"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/javascript.svg" title="JavaScript" alt="JavaScript"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/vitejs.svg" title="Vite" alt="Vite"/>
 </p>
 
 <!-- ⚙️ Backend & Runtime -->
 <h3>⚙️ Backend & Runtime</h3>
 <p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/nodejs.svg" title="Node.js" alt="Node.js"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/php.svg" title="PHP" alt="PHP"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/laravel.svg" title="Laravel" alt="Laravel"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/python.svg" title="Python" alt="Python"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/npm.svg" title="npm" alt="npm"/>
 </p>
 
 <!-- 📝 Programming Languages -->
 <h3>📝 Programming Languages</h3>
 <p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/cplusplus.svg" title="C++" alt="C++"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/java.svg" title="Java" alt="Java"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/c.svg" title="C" alt="C"/>
 </p>
 
 <!-- 💾 Databases -->
 <h3>💾 Databases</h3>
 <p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" title="MariaDB"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/mysql.svg" title="MySQL" alt="MySQL"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/mongodb.svg" title="MongoDB" alt="MongoDB"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/sqlite.svg" title="SQLite" alt="SQLite"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/mariadb.svg" title="MariaDB" alt="MariaDB"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/firebase.svg" title="Firebase" alt="Firebase"/>
 </p>
 
 <!-- 🔧 DevOps & Infrastructure -->
 <h3>🔧 DevOps & Infrastructure</h3>
 <p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/docker.svg" title="Docker" alt="Docker"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/linux.svg" title="Linux" alt="Linux"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/github.svg" title="GitHub" alt="GitHub"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/nginx.svg" title="Nginx" alt="Nginx"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/git.svg" title="Git" alt="Git"/>
 </p>
 
 <!-- 🎯 Design & Tools -->
 <h3>🎯 Design & Tools</h3>
 <p style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/>
-  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mdx/mdx-original.svg" title="MDX"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/figma.svg" title="Figma" alt="Figma"/>
+  <img width="50" style="border-radius:12px;" src="https://cdn.jsdelivr.net/npm/tech-stack-icons/svg/mdx.svg" title="MDX" alt="MDX"/>
 </p>
 
 </div>
+
 
 
 
