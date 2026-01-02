@@ -14,10 +14,24 @@
 ### Profile
 I am a web development student at DCCP Laoag with a focus on creating functional and aesthetic frontend interfaces. Currently, I am refining my skills in the Next.js ecosystem and Tailwind CSS while expanding my capabilities into full-stack development with Laravel.
 
-### Tech Stack
+### Technical Stack
+
+**Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css,laravel,php,mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
+
+**Backend & Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
+
+**Tools & Workflow**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma" />
+</p>
+
+---
 
 ### GitHub Metrics
 <div align="center">
