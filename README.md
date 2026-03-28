@@ -12,7 +12,7 @@
 ---
 
 ### Profile
-I am a web development student at DCCP Laoag with a focus on creating functional and aesthetic frontend interfaces. Currently, I am refining my skills in the Next.js ecosystem and Tailwind CSS while expanding my capabilities into full-stack development with Laravel.
+I am a web developer student at DCCP Laoag with a focus on creating functional and aesthetic frontend interfaces. Currently, I am refining my skills in the Next.js ecosystem and Tailwind CSS while expanding my capabilities into full-stack development with Laravel.
 
 ### Technical Stack
 
