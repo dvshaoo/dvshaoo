@@ -2,35 +2,70 @@
 
 # Joey Lorenz Corpuz
 
-Frontend Developer · 4th Year CS Student at DCCP Laoag
+`Freelance Web & App Developer` `BS IT Graduate — DCCP Laoag`
+
+Based in Laoag City, Ilocos Norte, Philippines · Open to work
+
+[github ↗](https://github.com/dvshaoo) / [linkedin ↗](https://www.linkedin.com/in/joey-lorenz-corpuz-1b991b398/) / [email ↗](mailto:paleraciojoey68@gmail.com)
 
 </div>
 
-<br/>
+---
 
-## About
+## 01 — about
 
-I'm a web developer focused on building functional and aesthetic frontend interfaces. Currently refining my skills in the Next.js ecosystem and Tailwind CSS, while expanding into full-stack development with Laravel.
+Freelance web & app developer building modern web interfaces and apps. These days focused on generative AI. Every day I turn rough ideas into things people actually use.
 
-<br/>
+`2+ Projects shipped` `NC II CSS Certified` `1 OJT completed` `BS IT Graduate`
 
-## Tech Stack
+---
+
+## 02 — projects
+
+**[BIS Portal](https://bisportal.vercel.app/) ↗**
+Digital school management system for Balatong Integrated School — student records, SF10 export, QR attendance, grades management.
+`Next.js` `React` `Tailwind` `Supabase` `2026`
+
+**[Faith Files](https://faithfiles.vercel.app/#/portal) ↗**
+Centralized portal for parish mass schedules and admin dashboard for church operations.
+`Next.js` `Firebase` `Tailwind` `2025`
+
+**[Ticket Trek](https://ticket-trek-movie.vercel.app/) ↗**
+Cinema seat reservation system with movie browsing and seat booking.
+`React` `Firebase` `JavaScript` `2025`
+
+---
+
+## 03 — stack
 
 **Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
 
 **Backend & Database**
+`Node.js` `PHP` `Python` `MySQL` `MongoDB` `Firebase` `Supabase`
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+**Languages**
+`Java` `C++`
 
-**Tools**
+**Tools & Others**
+`Git` `GitHub` `Figma` `n8n` `Apache` `Networking` `OS Install` `Hardware`
 
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,figma" />
+---
 
-<br/>
+## 04 — experience
 
-## GitHub Activity
+**Freelance Web & App Developer** — Self-employed
+`2023 – Present`
+
+**IT Support Technician (OJT)** — Plaza del Norte Hotel · Keener's Inc., Laoag City
+`2025`
+
+**NC II — Computer System Servicing** — Data Center College of the Philippines, Vigan City
+`2025`
+
+---
+
+## 05 — activity
 
 <div align="center">
 
@@ -41,16 +76,16 @@ I'm a web developer focused on building functional and aesthetic frontend interf
 </picture>
 
 <br/>
-<br/>
 
-<img src="https://streak-stats.demolab.com?user=dvshaoo&theme=dark&background=0D1117&hide_border=true" height="160" />
+![GitHub Streak](https://streak-stats.demolab.com?user=dvshaoo&theme=dark&background=0D1117&hide_border=true&ring=71717a&fire=fafafa&currStreakLabel=fafafa&sideLabels=71717a&dates=3f3f46&currStreakNum=fafafa&sideNums=a1a1aa)
 
 </div>
 
-<br/>
+---
 
-## Contact
+## 06 — contact
 
-- Email — [paleraciojoey68@gmail.com](mailto:paleraciojoey68@gmail.com)
-- Facebook — [shaoyoooo](https://www.facebook.com/shaoyoooo)
-- GitHub — [dvshaoo](https://github.com/dvshaoo)
+- Email — [paleraciojoey68@gmail.com](mailto:paleraciojoey68@gmail.com) ↗
+- LinkedIn — [joey-lorenz-corpuz](https://www.linkedin.com/in/joey-lorenz-corpuz-1b991b398/) ↗
+- GitHub — [dvshaoo](https://github.com/dvshaoo) ↗
+- Portfolio — [joey-corpuz.vercel.app](https://joey-corpuz.vercel.app/) ↗
