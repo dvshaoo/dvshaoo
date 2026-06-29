@@ -1,0 +1,183 @@
+<svg width="860" height="1820" viewBox="0 0 860 1820" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&amp;family=Geist+Mono:wght@400;500&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="860" height="1820" fill="#fafafa"/>
+
+  <!-- ════ HEADER ════ -->
+  <text x="430" y="60" font-family="'Geist','Inter',system-ui,sans-serif" font-size="32" font-weight="700" fill="#09090b" text-anchor="middle" letter-spacing="-0.5">Joey Lorenz Corpuz</text>
+  <text x="430" y="88" font-family="'Geist Mono','Courier New',monospace" font-size="12" fill="#71717a" text-anchor="middle" letter-spacing="0.4">Freelance Web &amp; App Developer · BS IT Graduate · Laoag City, Ilocos Norte</text>
+
+  <!-- badge row — evenly spaced, centered -->
+  <!-- badge 1: Next.js · Tailwind -->
+  <rect x="152" y="106" width="126" height="22" rx="4" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="215" y="121" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#52525b" text-anchor="middle">Next.js · Tailwind</text>
+  <!-- badge 2: React · TypeScript -->
+  <rect x="288" y="106" width="122" height="22" rx="4" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="349" y="121" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#52525b" text-anchor="middle">React · TypeScript</text>
+  <!-- badge 3: Supabase · n8n -->
+  <rect x="420" y="106" width="106" height="22" rx="4" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="473" y="121" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#52525b" text-anchor="middle">Supabase · n8n</text>
+  <!-- badge 4: open to work -->
+  <rect x="536" y="106" width="96" height="22" rx="4" fill="#09090b" stroke="#09090b" stroke-width="1"/>
+  <text x="584" y="121" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#fafafa" text-anchor="middle">· open to work ·</text>
+
+  <text x="430" y="154" font-family="'Geist Mono','Courier New',monospace" font-size="11" fill="#a1a1aa" text-anchor="middle">github.com/dvshaoo  ·  linkedin  ·  joey-corpuz.vercel.app</text>
+
+  <line x1="40" y1="172" x2="820" y2="172" stroke="#e4e4e7" stroke-width="1"/>
+
+  <!-- ════ 01 ABOUT ════ -->
+  <text x="40" y="204" font-family="'Geist Mono','Courier New',monospace" font-size="11" fill="#71717a" letter-spacing="0.5">01 — about</text>
+  <line x1="40" y1="214" x2="820" y2="214" stroke="#e4e4e7" stroke-width="0.5"/>
+  <text x="40" y="238" font-family="'Geist','Inter',system-ui,sans-serif" font-size="13" fill="#52525b">Freelance web &amp; app developer building modern interfaces and apps. Focused on generative AI</text>
+  <text x="40" y="256" font-family="'Geist','Inter',system-ui,sans-serif" font-size="13" fill="#52525b">and full-stack systems. I turn rough ideas into things people actually use.</text>
+
+  <!-- stat badges — each measured and placed manually -->
+  <rect x="40"  y="272" width="122" height="22" rx="4" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="101" y="287" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#52525b" text-anchor="middle">2+ projects shipped</text>
+
+  <rect x="172" y="272" width="196" height="22" rx="4" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="270" y="287" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#52525b" text-anchor="middle">NC II · Computer System Servicing</text>
+
+  <rect x="378" y="272" width="150" height="22" rx="4" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="453" y="287" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#52525b" text-anchor="middle">BS IT Graduate — DCCP</text>
+
+  <!-- ════ 02 PROJECTS ════ -->
+  <text x="40" y="330" font-family="'Geist Mono','Courier New',monospace" font-size="11" fill="#71717a" letter-spacing="0.5">02 — projects</text>
+  <line x1="40" y1="340" x2="820" y2="340" stroke="#e4e4e7" stroke-width="0.5"/>
+
+  <!-- BIS Portal -->
+  <text x="40" y="368" font-family="'Geist','Inter',system-ui,sans-serif" font-size="14" font-weight="600" fill="#09090b">BIS Portal ↗</text>
+  <text x="40" y="388" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b">Digital school management system for Balatong Integrated School — student records,</text>
+  <text x="40" y="404" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b">SF10-JHS export, QR attendance, grades management, learning modules.</text>
+  <!-- tags -->
+  <rect x="40"  y="416" width="60" height="20" rx="3" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="70"  y="430" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#52525b" text-anchor="middle">Next.js</text>
+  <rect x="108" y="416" width="44" height="20" rx="3" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="130" y="430" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#52525b" text-anchor="middle">React</text>
+  <rect x="160" y="416" width="58" height="20" rx="3" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="189" y="430" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#52525b" text-anchor="middle">Tailwind</text>
+  <rect x="226" y="416" width="68" height="20" rx="3" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="260" y="430" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#52525b" text-anchor="middle">Supabase</text>
+  <rect x="302" y="416" width="80" height="20" rx="3" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="342" y="430" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#52525b" text-anchor="middle">TypeScript</text>
+  <text x="392" y="430" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#a1a1aa">· 2026</text>
+
+  <line x1="40" y1="452" x2="820" y2="452" stroke="#f0f0f0" stroke-width="1"/>
+
+  <!-- Faith Files -->
+  <text x="40" y="476" font-family="'Geist','Inter',system-ui,sans-serif" font-size="14" font-weight="600" fill="#09090b">Faith Files ↗</text>
+  <text x="40" y="496" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b">Centralized portal for parish mass schedules with admin dashboard for church operations.</text>
+  <rect x="40"  y="508" width="60" height="20" rx="3" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="70"  y="522" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#52525b" text-anchor="middle">Next.js</text>
+  <rect x="108" y="508" width="60" height="20" rx="3" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="138" y="522" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#52525b" text-anchor="middle">Firebase</text>
+  <rect x="176" y="508" width="58" height="20" rx="3" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="205" y="522" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#52525b" text-anchor="middle">Tailwind</text>
+  <text x="242" y="522" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#a1a1aa">· 2025</text>
+
+  <line x1="40" y1="540" x2="820" y2="540" stroke="#f0f0f0" stroke-width="1"/>
+
+  <!-- Ticket Trek -->
+  <text x="40" y="564" font-family="'Geist','Inter',system-ui,sans-serif" font-size="14" font-weight="600" fill="#09090b">Ticket Trek ↗</text>
+  <text x="40" y="584" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b">Cinema seat reservation system with movie browsing and real-time seat booking.</text>
+  <rect x="40"  y="596" width="44" height="20" rx="3" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="62"  y="610" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#52525b" text-anchor="middle">React</text>
+  <rect x="92"  y="596" width="60" height="20" rx="3" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="122" y="610" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#52525b" text-anchor="middle">Firebase</text>
+  <rect x="160" y="596" width="82" height="20" rx="3" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="201" y="610" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#52525b" text-anchor="middle">JavaScript</text>
+  <text x="250" y="610" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#a1a1aa">· 2025</text>
+
+  <!-- ════ 03 STACK ════ -->
+  <text x="40" y="652" font-family="'Geist Mono','Courier New',monospace" font-size="11" fill="#71717a" letter-spacing="0.5">03 — stack</text>
+  <line x1="40" y1="662" x2="820" y2="662" stroke="#e4e4e7" stroke-width="0.5"/>
+
+  <!-- row -->
+  <text x="40"  y="686" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#a1a1aa">Frontend</text>
+  <text x="140" y="686" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b">HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS</text>
+  <line x1="40" y1="700" x2="820" y2="700" stroke="#f0f0f0" stroke-width="1"/>
+
+  <text x="40"  y="720" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#a1a1aa">Backend</text>
+  <text x="140" y="720" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b">Node.js · PHP · Python · MySQL · MongoDB · Firebase · Supabase</text>
+  <line x1="40" y1="734" x2="820" y2="734" stroke="#f0f0f0" stroke-width="1"/>
+
+  <text x="40"  y="754" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#a1a1aa">Languages</text>
+  <text x="140" y="754" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b">Java · C++</text>
+  <line x1="40" y1="768" x2="820" y2="768" stroke="#f0f0f0" stroke-width="1"/>
+
+  <text x="40"  y="788" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#a1a1aa">Tools</text>
+  <text x="140" y="788" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b">Git · GitHub · Figma · n8n · Apache · Networking · OS Install · Hardware</text>
+
+  <!-- ════ 04 EXPERIENCE ════ -->
+  <text x="40" y="828" font-family="'Geist Mono','Courier New',monospace" font-size="11" fill="#71717a" letter-spacing="0.5">04 — experience</text>
+  <line x1="40" y1="838" x2="820" y2="838" stroke="#e4e4e7" stroke-width="0.5"/>
+
+  <text x="40"  y="866" font-family="'Geist','Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#09090b">Freelance Web &amp; App Developer</text>
+  <text x="640" y="866" font-family="'Geist Mono','Courier New',monospace" font-size="11" fill="#a1a1aa">2023 – Present</text>
+  <text x="40"  y="884" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#71717a">Self-employed</text>
+  <line x1="40" y1="900" x2="820" y2="900" stroke="#f0f0f0" stroke-width="1"/>
+
+  <text x="40"  y="924" font-family="'Geist','Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#09090b">IT Support Technician (OJT)</text>
+  <text x="640" y="924" font-family="'Geist Mono','Courier New',monospace" font-size="11" fill="#a1a1aa">2025</text>
+  <text x="40"  y="942" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#71717a">Plaza del Norte Hotel · Keener's Inc. — Laoag City, Ilocos Norte</text>
+  <line x1="40" y1="958" x2="820" y2="958" stroke="#f0f0f0" stroke-width="1"/>
+
+  <text x="40"  y="982" font-family="'Geist','Inter',system-ui,sans-serif" font-size="13.5" font-weight="600" fill="#09090b">NC II — Computer System Servicing</text>
+  <text x="640" y="982" font-family="'Geist Mono','Courier New',monospace" font-size="11" fill="#a1a1aa">2025</text>
+  <text x="40"  y="1000" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#71717a">Data Center College of the Philippines — Vigan City</text>
+
+  <!-- ════ 05 RECOMMENDATIONS ════ -->
+  <text x="40" y="1042" font-family="'Geist Mono','Courier New',monospace" font-size="11" fill="#71717a" letter-spacing="0.5">05 — recommendations</text>
+  <line x1="40" y1="1052" x2="820" y2="1052" stroke="#e4e4e7" stroke-width="0.5"/>
+
+  <!-- quote 1 -->
+  <rect x="40" y="1072" width="3" height="90" rx="1.5" fill="#e4e4e7"/>
+  <text x="56" y="1094" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b" font-style="italic">"Joey didn't just show up to our OJT — he showed initiative. He diagnosed network issues</text>
+  <text x="56" y="1112" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b" font-style="italic">that had been bothering us for weeks, and he did it without being asked.</text>
+  <text x="56" y="1130" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b" font-style="italic">That's rare for an intern."</text>
+  <text x="56" y="1152" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#a1a1aa">Yachi Hollanda · Hotel Manager, Plaza del Norte Hotel</text>
+
+  <!-- quote 2 -->
+  <rect x="40" y="1178" width="3" height="102" rx="1.5" fill="#e4e4e7"/>
+  <text x="56" y="1200" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b" font-style="italic">"Most interns need constant hand-holding. Joey was the opposite — he'd ask the right</text>
+  <text x="56" y="1218" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b" font-style="italic">questions once, then figure out the rest on his own. Our network rehabilitation project</text>
+  <text x="56" y="1236" font-family="'Geist','Inter',system-ui,sans-serif" font-size="12.5" fill="#52525b" font-style="italic">moved faster because of him."</text>
+  <text x="56" y="1260" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#a1a1aa">James Rick · IT Supervisor, Keener's Inc.</text>
+
+  <!-- ════ 06 CONTACT ════ -->
+  <text x="40" y="1306" font-family="'Geist Mono','Courier New',monospace" font-size="11" fill="#71717a" letter-spacing="0.5">06 — contact</text>
+  <line x1="40" y1="1316" x2="820" y2="1316" stroke="#e4e4e7" stroke-width="0.5"/>
+
+  <text x="40"  y="1342" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#a1a1aa">Portfolio</text>
+  <text x="140" y="1342" font-family="'Geist','Inter',system-ui,sans-serif" font-size="13" font-weight="500" fill="#09090b">joey-corpuz.vercel.app ↗</text>
+  <line x1="40" y1="1358" x2="820" y2="1358" stroke="#f0f0f0" stroke-width="1"/>
+
+  <text x="40"  y="1378" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#a1a1aa">GitHub</text>
+  <text x="140" y="1378" font-family="'Geist','Inter',system-ui,sans-serif" font-size="13" font-weight="500" fill="#09090b">github.com/dvshaoo ↗</text>
+  <line x1="40" y1="1394" x2="820" y2="1394" stroke="#f0f0f0" stroke-width="1"/>
+
+  <text x="40"  y="1414" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#a1a1aa">LinkedIn</text>
+  <text x="140" y="1414" font-family="'Geist','Inter',system-ui,sans-serif" font-size="13" font-weight="500" fill="#09090b">linkedin.com/in/joey-lorenz-corpuz ↗</text>
+  <line x1="40" y1="1430" x2="820" y2="1430" stroke="#f0f0f0" stroke-width="1"/>
+
+  <text x="40"  y="1450" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#a1a1aa">Email</text>
+  <text x="140" y="1450" font-family="'Geist','Inter',system-ui,sans-serif" font-size="13" font-weight="500" fill="#09090b">paleraciojoey68@gmail.com ↗</text>
+
+  <line x1="40" y1="1480" x2="820" y2="1480" stroke="#e4e4e7" stroke-width="1"/>
+
+  <!-- footer -->
+  <text x="430" y="1506" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#d4d4d8" text-anchor="middle">inspired by bryllim.com</text>
+
+  <!-- github activity placeholder -->
+  <rect x="40" y="1526" width="780" height="60" rx="6" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="430" y="1552" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#a1a1aa" text-anchor="middle">github contribution snake</text>
+  <text x="430" y="1570" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#d4d4d8" text-anchor="middle">↓ embedded below in README.md</text>
+
+  <rect x="40" y="1602" width="780" height="60" rx="6" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+  <text x="430" y="1628" font-family="'Geist Mono','Courier New',monospace" font-size="10.5" fill="#a1a1aa" text-anchor="middle">github streak stats</text>
+  <text x="430" y="1646" font-family="'Geist Mono','Courier New',monospace" font-size="10" fill="#d4d4d8" text-anchor="middle">↓ embedded below in README.md</text>
+</svg>
