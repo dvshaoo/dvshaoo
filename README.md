@@ -1,6 +1,5 @@
 <div align="center">
 
-![Joey Lorenz Corpuz](preview.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvshaoo/dvshaoo/output/github-snake-dark.svg"/>
