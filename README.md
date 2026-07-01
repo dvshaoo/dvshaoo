@@ -1,8 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvshaoo/dvshaoo/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvshaoo/dvshaoo/output/github-snake.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/dvshaoo/dvshaoo/output/github-snake.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/dvshaoo/dvshaoo/output/github-snake-dark.svg"
+  />
   <img
     alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/dvshaoo/dvshaoo/output/github-snake.svg"
@@ -12,6 +18,9 @@
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dvshaoo&theme=default&hide_border=true&background=ffffff&stroke=d0d7de&ring=0969da&fire=2da44e&currStreakLabel=24292f&sideLabels=57606a&dates=8c959f&currStreakNum=24292f&sideNums=24292f)
+<img
+  src="https://streak-stats.demolab.com?user=dvshaoo&theme=transparent&hide_border=true&background=0d1117&stroke=30363d&ring=3fb950&fire=3fb950&currStreakLabel=f0f6fc&sideLabels=8b949e&dates=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc"
+  alt="GitHub Streak"
+/>
 
 </div>
